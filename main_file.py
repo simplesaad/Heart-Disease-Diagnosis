@@ -1,7 +1,7 @@
 # Author: SimpleSaad
 
 from flask import Flask, render_template, url_for, request
-from sklearn.externals import joblib
+import joblib
 import os
 import numpy as np
 import pickle
