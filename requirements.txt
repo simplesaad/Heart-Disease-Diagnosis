@@ -1,2 +1,2 @@
 Flask
-sklearn
+scikit-learn==0.22
